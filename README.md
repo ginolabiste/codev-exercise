@@ -1,2 +1,12 @@
-# codev-exercise
-Exercise page for codev Front-end Application
+## Exercise Page for Codev Front-end Application
+
+### Development
+
+To set up the project, run the following commands:
+
+```bash
+npm install
+npm run build
+```
+
+You can now access the application using `index.html`.
