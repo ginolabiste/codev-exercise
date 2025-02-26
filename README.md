@@ -9,4 +9,4 @@ npm install
 npm run build
 ```
 
-You can now access the application using `index.html`.
+You can now access the application using `src/index.html`.
